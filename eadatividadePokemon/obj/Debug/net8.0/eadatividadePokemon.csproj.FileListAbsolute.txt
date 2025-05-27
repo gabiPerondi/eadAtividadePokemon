@@ -1,0 +1,14 @@
+C:\Users\gbper\Downloads\eadatividadePokemon\bin\Debug\net8.0\eadatividadePokemon.exe
+C:\Users\gbper\Downloads\eadatividadePokemon\bin\Debug\net8.0\eadatividadePokemon.deps.json
+C:\Users\gbper\Downloads\eadatividadePokemon\bin\Debug\net8.0\eadatividadePokemon.runtimeconfig.json
+C:\Users\gbper\Downloads\eadatividadePokemon\bin\Debug\net8.0\eadatividadePokemon.dll
+C:\Users\gbper\Downloads\eadatividadePokemon\bin\Debug\net8.0\eadatividadePokemon.pdb
+C:\Users\gbper\Downloads\eadatividadePokemon\obj\Debug\net8.0\eadatividadePokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbper\Downloads\eadatividadePokemon\obj\Debug\net8.0\eadatividadePokemon.AssemblyInfoInputs.cache
+C:\Users\gbper\Downloads\eadatividadePokemon\obj\Debug\net8.0\eadatividadePokemon.AssemblyInfo.cs
+C:\Users\gbper\Downloads\eadatividadePokemon\obj\Debug\net8.0\eadatividadePokemon.csproj.CoreCompileInputs.cache
+C:\Users\gbper\Downloads\eadatividadePokemon\obj\Debug\net8.0\eadatividadePokemon.dll
+C:\Users\gbper\Downloads\eadatividadePokemon\obj\Debug\net8.0\refint\eadatividadePokemon.dll
+C:\Users\gbper\Downloads\eadatividadePokemon\obj\Debug\net8.0\eadatividadePokemon.pdb
+C:\Users\gbper\Downloads\eadatividadePokemon\obj\Debug\net8.0\eadatividadePokemon.genruntimeconfig.cache
+C:\Users\gbper\Downloads\eadatividadePokemon\obj\Debug\net8.0\ref\eadatividadePokemon.dll
