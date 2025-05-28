@@ -19,7 +19,7 @@ namespace eadatividadePokemon
 
         public void AprenderAtaque(Ataque ataque)
         {
-            if (Ataques.Count < 4)// o .count é para saber quantos ataques o Pokémon ja aprendeuu
+            if (Ataques.Count < 4)
                 Ataques.Add(ataque);
         }
 
